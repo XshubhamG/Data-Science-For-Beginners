@@ -20,7 +20,7 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
+| Education |we can improve subject circulum using data science based of the data collected from all the test happened in the year and how all the student faced and tackled the test| test scores and question papers and answer sheets along with student presence in the class | questions and score in SQL and answers in NoSQL format | We can find out how each student did in each section or question on tests is there any pattern on which they attempt to solve difficult problems and any progressive improvements happend in the them |
 | Vaccination | | | | |
 | Productivity | | | | |
 

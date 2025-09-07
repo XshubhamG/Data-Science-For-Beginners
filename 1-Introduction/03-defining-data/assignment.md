@@ -52,11 +52,11 @@ Source Type: Secondary
 
 5. A personal finance app uses APIs to connect to a user's financial accounts in order to calculate their net worth. They can see all of their transactions in a format of rows and columns and looks similar to a spreadsheet.
 
-Structure Type:
+Structure Type: Structured
 
-Value Type: 
+Value Type: Quantitative
 
-Source Type: 
+Source Type: Secondary
 
 ## Rubric
 
